@@ -1,8 +1,8 @@
-# _{Application Name}_
+#  To Do List
 
-#### _{Brief description of application}, 8/21/20_
+#### Add task to do, indicate when each task is done and remove it from the list, 8/24/20_
 
-#### By _**Joseph Nilles**_
+#### By _**Natalie Murphy, Alma Frankenstein and Joseph Nilles**_
 
 ## Description
 
@@ -11,10 +11,10 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **add the value of all the symbols** | 66 |LXVI |
-| **there may not be more than three of the same characters in a row. Instead, you switch to subtraction.** | 90 | XC |
-| **separate ones, tens, hundreds, and thousands**| 99 | XCIX |
-| **check user input for proper entry**| 2.5 | return error |
+| **add task to list** |  | |
+| **check off task** |  |  |
+| **remove items from list**|  |  |
+
 
 
 
